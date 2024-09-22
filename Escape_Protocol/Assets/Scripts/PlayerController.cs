@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
 {
     // Move player in 2D space
     public float maxSpeed = 3.4f;
-    public float jumpHeight = 6.5f;
+    public float jumpHeight = 7.5f;
     public float gravityScale = 1.5f;
     public Camera mainCamera;
 
